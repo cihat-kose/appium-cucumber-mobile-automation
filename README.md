@@ -1,10 +1,12 @@
 
-# Appium Cucumber Mobile Testing
+# Appium Cucumber Mobile Automation
 
 ![Appium](https://img.shields.io/badge/Appium-6DB33F?style=for-the-badge&logo=appium&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-FF7300?style=for-the-badge&logo=testng&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
 
 ## Overview
 This project automates mobile application testing for **Android platforms** using Appium, Cucumber, and TestNG. The goal is to create a robust, easy-to-maintain, and scalable test suite for mobile applications, with a primary focus on Android, while allowing for easy extension to iOS if needed.
@@ -12,7 +14,7 @@ This project automates mobile application testing for **Android platforms** usin
 ## Project Structure
 
 ```
-appium-cucumber-mobile-testing/
+appium-cucumber-mobile-automation/
 ├── .idea/
 ├── src/
 │   ├── main/
@@ -62,13 +64,14 @@ appium-cucumber-mobile-testing/
 - Maven 3.6 or higher
 - Appium server
 - Android SDK
+- Node.js (16.x or higher)
 
 ## Setup
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/cihat-kose/appium-cucumber-mobile-testing.git
-   cd appium-cucumber-mobile-testing
+   git clone https://github.com/cihat-kose/appium-cucumber-mobile-automation.git
+   cd appium-cucumber-mobile-automation
    ```
 
 2. **Java Installation**
